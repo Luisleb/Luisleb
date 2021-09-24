@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Luisleb
+- 👋 Hi, I’m Luis Leboullenger
 - 👀 I’m interested in futur technologies
-- 🌱 I’m currently learning Cross Reality (XR)
-- 💞️ I’m studying at ESIEA engineering school
-- 📫 How to reach me : leboullenger@et.esiea.fr
+- 🏫 I’m studying at ESIEA informatic engineering school
+- 📚 I’m specialized in Cross Reality (XR)
+- 📫 leboullenger@et.esiea.fr 
 
 <!---
 Luisleb/Luisleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
